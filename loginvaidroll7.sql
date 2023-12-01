@@ -40,6 +40,7 @@ CREATE TABLE `login` (
 INSERT INTO `login` (`usuario`, `pass`, `rol`) VALUES
 ('vaidrollteam', '1234', 'Admin'),
 ('drowell', 'asdf', 'Usuario');
+('Jose', '2023', 'Cliente');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
